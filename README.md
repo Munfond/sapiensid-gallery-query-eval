@@ -6,6 +6,8 @@ Repo này dùng SapiensID pretrained để nhận diện người trong ảnh qu
 
 Hướng dẫn dùng Bash trên Linux/Ubuntu có GPU NVIDIA. Các đường dẫn `./...` được tính từ thư mục dự án, nơi có `evaluate.py`.
 
+**Máy chưa có `nvcc`?** Xem [hướng dẫn cài CUDA Toolkit và build RPE](INSTALL_CUDA_NVCC.md).
+
 ## 1. Tải mã nguồn
 
 ```bash
